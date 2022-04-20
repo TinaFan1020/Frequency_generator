@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frequency_generator</string>
+    <string name="button">Generate</string>
+    <string name="frequency">enter the frequency</string>
+    <string name="button2">Stop</string>
+    <string name="number">frequency</string>
+    <string name="please_enter_the_frequency">frequency</string>
+    <string name="textview">frequency</string>
+    <string name="enter_the_frequency">hint msg</string>
+    <string name="hint_msg">enter the frequency</string>
+</resources>
